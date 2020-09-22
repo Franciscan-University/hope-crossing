@@ -2,7 +2,7 @@
 
 ## Getting Started & Installation
 
-You can find a live URL of this game [here] (https://franciscan-university.github.io/frather/)
+You can find a live URL of this game [here] (https://franciscan-university.github.io/hope-crossing/)
 
 ## Playing the Game
 The Game will begin as soon as it is opened in the browser. There is a modal that explains the basic movements. Try to make it across to the water as many times as possible to reach new scores. Collect rosary rings along the way to gain bonus points.
@@ -12,7 +12,7 @@ As you get further into scores, the game will get more difficult.
 
 Pull requests are allowed and will be reviewed on a case-by-case basis. To make a pull request
 
-> git clone https://github.com/Franciscan-University/frather.git
+> git clone https://github.com/Franciscan-University/hope-crossing.git
 > cd frather
 ```
 Open `index.html` in your browser to run the game.
