@@ -2,7 +2,7 @@
 
 ## Getting Started & Installation
 
-You can find a live URL of this game [here] (https://franciscan-university.github.io/hope-crossing/)
+You can find a live URL of this game [here](https://franciscan-university.github.io/hope-crossing/)
 
 ## Playing the Game
 The Game will begin as soon as it is opened in the browser. There is a modal that explains the basic movements. Try to make it across to the water as many times as possible to reach new scores. Collect rosary rings along the way to gain bonus points.
