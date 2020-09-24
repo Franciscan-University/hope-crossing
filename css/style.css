@@ -100,16 +100,23 @@ a.twitter-share-button:focus, {
 }
 
 .modalDialog > div {
+	color: #fff;
+	font-weight: 300;
 	width: 400px;
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
 	border-radius: 5px;
-	background: #fff;
-	background: -moz-linear-gradient(#5D5224, #12361E);
+	background: #12361E;
+	/* background: -moz-linear-gradient(#5D5224, #12361E);
 	background: -webkit-linear-gradient(#5D5224, #12361E);
-	background: -o-linear-gradient(#5D5224, #12361E);
+	background: -o-linear-gradient(#5D5224, #12361E); */
 }
+
+.modalDialog > div > p {
+	letter-spacing: 2px;
+}
+
 .close {
 	background: #8C3B1A;
 	color: #E8FB2D;
