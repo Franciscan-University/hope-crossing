@@ -12,6 +12,7 @@ As you get further into scores, the game will get more difficult.
 
 Pull requests are allowed and will be reviewed on a case-by-case basis. To make a pull request
 
+```
 > git clone https://github.com/Franciscan-University/hope-crossing.git
 > cd frather
 ```
